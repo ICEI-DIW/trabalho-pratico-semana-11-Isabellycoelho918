@@ -38,7 +38,19 @@
       "link": "detalhes.html?id=1",
       "diretor": "Andrew Stanton",
       "genero": "Animação, Aventura",
-      "ano": 2003
+      "ano": 2003,
+      "personagens": [
+        {
+          "nome": "Nemo",
+          "descricao": "O jovem peixe-palhaço curioso e aventureiro.",
+          "foto": "nemo-personagem.jpg"
+        },
+        {
+          "nome": "Dory",
+          "descricao": "Peixe esquecida que ajuda Marlin.",
+          "foto": "dory.jpg"
+        }
+      ]
     },
     {
       "id": 2,
@@ -48,7 +60,14 @@
       "link": "detalhes.html?id=2",
       "diretor": "Chad Stahelski",
       "genero": "Ação, Suspense",
-      "ano": 2014
+      "ano": 2014,
+      "personagens": [
+        {
+          "nome": "John Wick",
+          "descricao": "Ex-assassino em busca de vingança.",
+          "foto": "john-wick.jpg"
+        }
+      ]
     },
     {
       "id": 3,
@@ -58,7 +77,14 @@
       "link": "detalhes.html?id=3",
       "diretor": "Bong Joon-ho",
       "genero": "Drama, Suspense",
-      "ano": 2019
+      "ano": 2019,
+      "personagens": [
+        {
+          "nome": "Kim Ki-taek",
+          "descricao": "Pai da família que se infiltra na casa rica.",
+          "foto": "ki-taek.jpg"
+        }
+      ]
     },
     {
       "id": 4,
@@ -68,7 +94,14 @@
       "link": "detalhes.html?id=4",
       "diretor": "Brad Anderson",
       "genero": "Suspense, Mistério",
-      "ano": 2019
+      "ano": 2019,
+      "personagens": [
+        {
+          "nome": "Ray Monroe",
+          "descricao": "Pai desesperado em busca da família.",
+          "foto": "ray.jpg"
+        }
+      ]
     },
     {
       "id": 5,
@@ -78,7 +111,14 @@
       "link": "detalhes.html?id=5",
       "diretor": "Jan Schomburg",
       "genero": "Drama, Romance",
-      "ano": 2022
+      "ano": 2022,
+      "personagens": [
+        {
+          "nome": "Tobias",
+          "descricao": "Jovem que enfrenta uma doença terminal.",
+          "foto": "tobias.jpg"
+        }
+      ]
     },
     {
       "id": 6,
@@ -88,7 +128,14 @@
       "link": "detalhes.html?id=6",
       "diretor": "John Lasseter",
       "genero": "Animação, Aventura",
-      "ano": 2006
+      "ano": 2006,
+      "personagens": [
+        {
+          "nome": "Relâmpago McQueen",
+          "descricao": "Carro de corrida ambicioso.",
+          "foto": "mcqueen.jpg"
+        }
+      ]
     },
     {
       "id": 7,
@@ -98,7 +145,14 @@
       "link": "detalhes.html?id=7",
       "diretor": "Damien Chazelle",
       "genero": "Musical, Romance",
-      "ano": 2016
+      "ano": 2016,
+      "personagens": [
+        {
+          "nome": "Mia",
+          "descricao": "Atriz iniciante que se apaixona por Sebastian.",
+          "foto": "mia.jpg"
+        }
+      ]
     },
     {
       "id": 8,
@@ -108,8 +162,14 @@
       "link": "detalhes.html?id=8",
       "diretor": "Colleen Hoover",
       "genero": "Drama, Romance",
-      "ano": 2024
+      "ano": 2024,
+      "personagens": [
+        {
+          "nome": "Lily Bloom",
+          "descricao": "Mulher que tenta superar traumas e recomeçar.",
+          "foto": "lily.jpg"
+        }
+      ]
     }
   ]
 }
-
