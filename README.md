@@ -4,18 +4,18 @@ Nessa etapa, vamos evoluir o projeto anterior e contemplar um ambiente de desenv
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Isabelly Guimarães Coelho
+- Matricula: 877083
+- Proposta de projeto escolhida:Catálago de Filmes
+- Breve descrição sobre seu projeto:  Meu projeto é a criação de um site dinamico e com amplas funcionalidades. No site, vão ser adicionados sessões de interação entre os amantes de cinema, pastas para organização de filmes na escolha do usuário, resumos, trailes e muitas informações e noticias para os adoradores de filmes.
 
 **Print do teste da API com visualização do JSON**
 
-<<  COLOQUE A IMAGEM AQUI >>
+![image](https://github.com/user-attachments/assets/0a7fb5f5-a39d-46f2-ab21-fa8972265ae6).
 
 **Print da aba NETWORK com requisições Fetch/XHR**
 
-<<  COLOQUE A IMAGEM AQUI >>
+![image](https://github.com/user-attachments/assets/64cb0d9c-3cc0-4ba6-bf50-0ec2af40b69c).
 
 ## **Orientações Gerais**
 
